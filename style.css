@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white; 
+}
+
+.moda {
+    background-color: #BB86FC;
+    color: white;
+}
+
+td {
+    background-color: #424250;
+    color: white;
+}
+
+.casa {
+    background-color: #00C4B4;
+    color: white;
+}
+
+.fundo-moda {
+    color: white;
+}
+
+.fundo-casa {
+    color: white;
+}
